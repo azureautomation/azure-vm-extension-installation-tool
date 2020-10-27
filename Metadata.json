@@ -1,0 +1,20 @@
+{
+    "Author": "Jono Lewis",
+    "ContentSize": 83355,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-vm-extension-installation-tool/master/AZRM-ExtDeploy.ps1",
+    "DownloadCount": 1818,
+    "Id": "Azure-VM-Extension-1fc2ab66",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 128,
+    "RaterCount": 2,
+    "Rating": 4.5,
+    "ReleaseDate": "2016-7-29T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Version 1.9 Added Encrypt existing VM capabilitiesThis script will provision ARM extensions in Azure to a VM. The script also supports underlying operations for Custom Scripts such as creating blob storage and uploading dependent installation files for custom script execution.",
+    "Title": "Azure VM Extension Installation Tool",
+    "UpdatedDate": "2017-7-20T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-vm-extension-installation-tool",
+    "UserTags": "Microsoft Azure, Powershell Script, IaaS"
+}
